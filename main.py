@@ -23,7 +23,7 @@ models = {
 }
 
 # Streamlit UI
-st.title("🤖 Talk to 5 Friendly AI Models!")
+st.title("🤖 Talk to 3 Friendly AI Models!")
 
 user_prompt = st.text_area("💬 What's your question or topic?")
 
