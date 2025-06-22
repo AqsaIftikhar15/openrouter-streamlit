@@ -19,10 +19,8 @@ Talk to **multiple AI models** in one place! This Streamlit app connects to Open
 Created with ❤️ by Aqsa Iftikhar
 Using OpenRouter and Streamlit
 
----
+---# 🤖 OpenRouter Streamlit App
 
-# 🤖 OpenRouter Streamlit App
-
-🌐 **Live App:** [Click here to try it on Streamlit!]([https://aqsa-openrouter-chat.streamlit.app](https://openrouter-app-vhr7fyj6rba4zmx5k9bmwo.streamlit.app/))
+🌐 **Live App:** [Click here to try it on Streamlit!](https://openrouter-app-vhr7fyj6rba4zmx5k9bmwo.streamlit.app/)
 
 Talk to **multiple AI models** in one place! ...
